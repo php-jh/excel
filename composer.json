@@ -2,13 +2,9 @@
     "name": "jiangh/excel",
     "description": "excel",
     "license": "MIT",
-    "homepage": "http://www.pfinal.cn",
-    "support": {
-        "source": "https://github.com/pfinal/excel"
-    },
     "authors": [
         {
-            "name": "Zou Yiliang"
+            "name": "jianghua"
         }
     ],
     "require": {
