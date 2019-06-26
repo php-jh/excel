@@ -3,7 +3,7 @@
 ## 安装
 
 ```
-composer require pfinal/excel
+composer require zhuxingxin/excel
 ```
 
 ##  使用示例
